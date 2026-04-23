@@ -14,6 +14,7 @@ function soma(n1, n2) {
 var result = soma(10, 5);
 result += 5;
 
+
 // Qual o valor atualizado dessa variável?
 ?
 20
